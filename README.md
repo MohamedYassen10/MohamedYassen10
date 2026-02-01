@@ -128,9 +128,9 @@ I build **data-driven solutions** that transform raw data into actionable insigh
 ---
 
 ## 🔗 Connect With Me
-- 💼 **LinkedIn:** *(add your LinkedIn URL here)*
-- 📊 **Portfolio / DataCamp:** *(optional)*
-- 📧 Email: *(optional)*
+- 💼 **LinkedIn:** *[.](https://www.linkedin.com/in/mohamed-yassen-96598625b)/*
+- 📊 **Portfolio / DataCamp:** *[](https://www.datacamp.com/portfolio/my915662)*
+- 📧 Email: *mohamedashraf31220@gmail.com*
 
 ---
 
